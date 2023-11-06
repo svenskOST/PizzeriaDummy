@@ -1,0 +1,9 @@
+- När man byter page så är den nya sidan också nedskrollad om förra var det.
+
+- Karusellens "Besök nu" knapp tar just nu användaren till ett ungefärligt skroll på 1000 Y. 
+  Ändra så att den alltid stämmer (olika storlekar, min- och maxläge).
+
+- Just nu visas inte navbaren från början om sidan är något skrollad när den laddas.
+  Eller visas inte alls även om sidan laddar från toppen?
+
+- On click på menu items ska kortet vändas och där ska det finnas info om sånt som ingredienser, allergener och näring.

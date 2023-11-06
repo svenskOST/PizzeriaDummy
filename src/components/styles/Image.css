@@ -1,0 +1,35 @@
+.notExpanded {
+   animation: reset 1s;
+   scale: 0.5;
+   border-radius: 100%;
+}
+
+.expanded {
+   animation: expand 1s;
+   scale: 1;
+   border-radius: 2%;
+}
+
+@keyframes reset {
+   0% {
+      scale: 1;
+      border-radius: 2%;
+   }
+
+   100% {
+      scale: 0.5;
+      border-radius: 100%;
+   }
+}
+
+@keyframes expand {
+   0% {
+      scale: 0.5;
+      border-radius: 100%;
+   }
+
+   100% {
+      scale: 1;
+      border-radius: 2%;
+   }
+}

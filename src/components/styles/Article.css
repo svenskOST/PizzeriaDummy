@@ -1,0 +1,7 @@
+.article {
+   transform: translateX(110%) scale(0.8);
+}
+
+.currentArticle {
+   transform: none;
+}
