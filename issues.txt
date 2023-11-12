@@ -1,5 +1,6 @@
 - När man byter page så är den nya sidan också nedskrollad om förra var det.
 
-- Meny sidan blir konstig i mobilt läge?
+- Meny sidan blir konstig i mobilt läge, och outline på knapparna i dropdown menyn är inte rounded. Verkar fungera normalt i samma
+  storlek/upplösning på dator men på en riktig mobil uppstår problemet.
 
 - Om oss och kontakt sidorna är ej klara.
